@@ -1,0 +1,23 @@
+{
+  "name": "discord-team-role-bot",
+  "version": "1.0.0",
+  "description": "Bot de Discord que asigna roles de equipo aleatorios y gestiona roles de Capitán",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "roles",
+    "teams"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.24.2",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^7.0.10"
+  }
+}
